@@ -1,5 +1,0 @@
-git stash
-hello
-fghjk
-super
-branching
